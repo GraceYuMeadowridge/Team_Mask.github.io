@@ -117,7 +117,7 @@ html {
     text-align: center;
     border: 6px lightgray;
     border-style: outset;
-    display: inline-block;
+    text-align: center;
 }
 
 .threeMproduction {
@@ -126,7 +126,6 @@ html {
 
 .mask_use_overtime {
     width: 52%;
-    display: inline-block;
 }
 
 .us_china,
